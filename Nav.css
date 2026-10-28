@@ -1,0 +1,22 @@
+nav{
+    height: 70px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    color: white;
+
+}
+a:hover{
+    color: blueviolet;
+}
